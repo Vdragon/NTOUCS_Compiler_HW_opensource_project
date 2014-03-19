@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1395237649 source:/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/main.cpp
+	"main.hpp"
+	<stdio.h>
+	<cstdio>
+	<stdlib.h>
+	<cstdlib>
+	<errno.h>
+	<cerrno>
+	<assert.h>
+	<cassert>
+	<ctype.h>
+	<cctype>
+	<float.h>
+	<cfloat>
+	<iso646.h>
+	<ciso646>
+	<limits.h>
+	<climits>
+	<locale.h>
+	<clocale>
+	<math.h>
+	<cmath>
+	<setjmp.h>
+	<csetjmp>
+	<signal.h>
+	<csignal>
+	<stdarg.h>
+	<cstdarg>
+	<stdbool.h>
+	<cstdbool>
+	<stddef.h>
+	<cstddef>
+	<stdint.h>
+	<cstdint>
+	<string.h>
+	<cstring>
+	<time.h>
+	<ctime>
+	<uchar.h>
+	<cuchar>
+	<wchar.h>
+	<cwchar>
+	<wctype.h>
+	<cwctype>
+	<tgmath.h>
+	<ctgmath>
+	<.h>
+	<c>
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	<algorithm>
+	<>
+	<libintl.h>
+	"pauseProgram/pauseProgram.h"
+	"showSoftwareInfo/showSoftwareInfo.h"
+	"Project_specific_configurations/GNU_gettext_library.h"
+
+1370822253 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/main.hpp
+
+1333683657 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/pauseProgram/pauseProgram.h
+
+1395237649 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/showSoftwareInfo/showSoftwareInfo.h
+
+1395237649 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/Project_specific_configurations/GNU_gettext_library.h
+
+1395237649 source:/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/pauseProgram/pauseProgram.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<ctype.h>
+
+1395237649 source:/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/printSomething/printSomething.c
+	"printSomething.h"
+	<stdio.h>
+	<errno.h>
+	<unistd.h>
+	<linux/limits.h>
+	<libintl.h>
+	"../Error/C/Error.h"
+
+1395237649 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/printSomething/printSomething.h
+	<stdio.h>
+
+1395237649 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/Error/C/Error.h
+	<stdio.h>
+
+1395237649 source:/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/showSoftwareInfo/showSoftwareInfo.c
+	"showSoftwareInfo.h"
+	"../Project_specific_configurations/Software_info.h"
+	<stdio.h>
+	"../printSomething/printSomething.h"
+	<libintl.h>
+
+1395240404 /home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/Project_specific_configurations/Software_info.h
+
+1395237649 source:/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/C_CPP_project_template/Source_code/Error/C/Error.c
+	"Error.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"../../printSomething/printSomething.h"
+
