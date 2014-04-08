@@ -49,7 +49,7 @@
 				/*軟體開發者的電子郵件地址*/
 					#define DEVELOPER_EMAIL "pika1021@gmail.com"
 				/*用在著作權宣告的軟體釋出年份*/
-					#define SOFTWARE_RELEASE_YEAR "2013"
+					#define SOFTWARE_RELEASE_YEAR "2014"
 				/* 用在軟體所使用的授權條款版本（目前尚未實作）
 				 * 有效值："「數字」（+）" "NONE"
 					#define SOFTWARE_LICENSE_VERSION "3+"*/
