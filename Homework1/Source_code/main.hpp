@@ -3,7 +3,7 @@
 		/*程式名稱
 			Program name */
 			#define PROGRAM_MAIN "undefined.program.domain"
-			#define PROGRAM_MAIN_NAME "Main program"
+			#define PROGRAM_MAIN_NAME "作業一演示程式主程式"
 		/*更新紀錄
 			Changelog
 				Changelog is now stored on GitHub(http://www.github.com)

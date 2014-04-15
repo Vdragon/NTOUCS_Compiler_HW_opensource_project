@@ -43,7 +43,7 @@
 			/* 常數與巨集的定義
 			 * Definition of constants & macros */
 				/*軟體名稱*/
-					#define SOFTWARE_NAME "作業1"
+					#define SOFTWARE_NAME "海洋大學編譯器課程作業開放原始碼計劃"
 				/*軟體開發者名稱*/
 					#define DEVELOPER_NAME "VSDG"
 				/*軟體開發者的電子郵件地址*/
@@ -54,9 +54,9 @@
 				 * 有效值："「數字」（+）" "NONE"
 					#define SOFTWARE_LICENSE_VERSION "3+"*/
 				/* 軟體的官方網站 */
-					#define SOFTWARE_OFFICIAL_SITE "SOFTWARE_OFFICIAL_SITE undefined"
+					#define SOFTWARE_OFFICIAL_SITE "https://github.com/Vdragon/NTOUCS_Compiler_HW_opensource_project"
 				/* 軟體的問題回報地址 */
-					#define SOFTWARE_ISSUE_REPORT_ADDRESS "SOFTWARE_ISSUE_REPORT_ADDRESS undefined"
+					#define SOFTWARE_ISSUE_REPORT_ADDRESS "https://github.com/Vdragon/NTOUCS_Compiler_HW_opensource_project/issues"
 					
 			/* 程式所 include 之函式庫的標頭檔
 			   Included Library Headers */
