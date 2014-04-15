@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HW1</name>
+	<name>Compiler HW1</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -88,7 +88,7 @@
 		<link>
 			<name>Source_code</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Source_code</locationURI>
+			<location>/home/Vdragon/Workspace/Programming/NTOU_Computer_Science/NTOUCS_Compiler_HW_opensource_project/Homework1/Source_code</location>
 		</link>
 	</linkedResources>
 </projectDescription>
